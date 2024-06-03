@@ -59,6 +59,7 @@ p {
 
 #title {
   background: rgba(255, 255, 255, 0.5);
+  color: #f44336;
   /* background-color: white; */
   padding: 2px;
 }
